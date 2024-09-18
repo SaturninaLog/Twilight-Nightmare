@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06d6015b39148c7418120ef20a144280, type: 3}
+  m_Name: DialogoGuia Escena 1
+  m_EditorClassIdentifier: 
+  Name: Guia espiritual
+  Icon: {fileID: 21300114, guid: 1fdbbe7d5e3d25d48a6e2b05c352fe9a, type: 3}
+  HasInteraction: 1
+  InteractionType: 0
+  Greeting: "Este era el coraz\xF3n de Aleroru. Los demonios del crep\xFAsculo han
+    reclamado lo que una vez fue nuestro. Prep\xE1rate. Aqu\xED comienza tu verdadero
+    desaf\xEDo."
+  Dialogue:
+  - "Are you looking for thrilling challenges and great rewards?\t"
+  - I have a perfect task for you.
